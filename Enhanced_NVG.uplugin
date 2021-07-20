@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Enhanced_NVG",
+	"Description": "Enhanced NVGs for Insurgency: Sandstorm",
+	"Category": "Other",
+	"CreatedBy": "Alpha",
+	"CreatedByURL": "https://github.com/aempha",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
